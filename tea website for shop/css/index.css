@@ -1,0 +1,83 @@
+.nav-link{
+    /* font-family: 'Lato', sans-serif !important; */
+    font-size: 19px !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-link:hover{
+    color: #74C512 !important;
+}
+.car-s{
+    padding: 0px !important;
+    margin: 0px !important;
+}
+.catogery-heading,.facelity-heading,.gallery-headding,.template-headding,.contact-heading,.customer-heading{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.catogery-paragrapg,.facelity-paragrapg,.gallery-paragraph,.template-paragraph,.conatct-paragraph,.customer-peragraph{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #58891E;
+}
+
+/* card style start */
+.card-title,.facelity-heading-h4,.strong_title,.form-label,.footer_style{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.card-text,.facelity-paragrapg-p,.address_style{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #58891E;
+}
+.card:hover{
+    border: 1px solid #58891E !important;
+}
+.icon-style{
+    text-decoration: none;
+    outline: none;
+}
+.icon-style i{
+    font-size: 15px;
+    color: #58891E;
+}
+.icon-style i:hover{
+    color: #74C512;
+    text-decoration: none;
+    outline: none;
+}
+/* card style end */
+
+/* facelity style start */
+.facelity-paragrapg-p{
+    text-align: justify !important;
+}
+.web_style{
+    color: #58891E;
+    text-decoration: none;
+}
+.web_style:hover{
+    color: #74C512;
+    text-decoration: underline;
+}
+.btn-outline-success:hover{
+    background: none !important;
+    color: #58891E !important;
+}
+.middle{
+    text-align: center !important;
+}
+.name_style{
+    color: #58891E;
+    text-decoration: none;
+}
+.name_style:hover{
+    color: #74C512;
+    text-decoration: underline;
+}
+
+@media(max-width:768px)
+{
+    .nav-item{
+        text-align: center !important;
+    }
+    .name_style,.footer_style{
+        text-align: center !important;
+    }
+}
