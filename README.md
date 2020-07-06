@@ -1,0 +1,2 @@
+# New-Responsive-Website-Tea-shop-
+The project aims at serving the responsive Quality by Bootstrap 5 the Responsive Website For Tea Shop / Tea Plant (New Start Up). A Web project involves everything that has to do with the Shoping of Tea and the filing of ­Customer Needs. This includes keeping track of hours, calculating Customers needs, and other deductions, printing and delivering checks and give Best Services to Our Customers .
